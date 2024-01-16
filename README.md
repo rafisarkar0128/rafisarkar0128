@@ -1,6 +1,3 @@
-![](https://api.githubtrends.io/user/svg/theassassin0128/langs?time_range=one_year&include_private=True&theme=ferns)
-![](https://api.githubtrends.io/user/svg/theassassin0128/repos?time_range=one_year&theme=ferns)
-
 # About Myself
 A simple college student who loves to play games, watch contents such as movies, tv shows, anime etc & read comics. Interested in Programming. Has basic Knowledge of HTML, CSS, JavaScript & little bit of python.
 
