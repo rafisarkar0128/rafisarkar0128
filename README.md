@@ -1,22 +1,25 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rafisarkar0128&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/rafisarkar0128)
-
-# 🌱 About Me
-
-I'm Rafi, a university student majoring in Computer Science & Engineering.
+# 🌟 Hi there!
+I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at North South University.
 
 - 💻 Passionate about building things with code and exploring new technologies.
 - 🛠️ Hands-on experience with JavaScript, Node.js, HTML, CSS, C, and Git.
-- 🚀 Currently exploring new technologies and working on open source projects.
+- 🧩 Interested in modular programming, logic building, and API-driven creative projects.
+- 🔭 Currently exploring new technologies and working on my personal projects.
 - 🧑‍💻 I love solving challenging problems and collaborating with others in the tech community.
 - 💡 Always looking for opportunities to learn, grow, and contribute to exciting projects.
 - 🎮 Outside of coding, I enjoy gaming, movies, tv-shows, and comics.
 
 ## 📫 Connect with Me
 
+[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rafisarkar0128)
+[![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=for-the-badge&color=171A21&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:rafisarkar0128@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafisarkar0128)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafisarkar0128/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/720186844540567583/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/theassassin0128/)
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/theassassin0128/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rafisarkar0128)
+
 
 ## 🛠️ Languages
 
