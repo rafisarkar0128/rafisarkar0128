@@ -49,23 +49,24 @@ I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at Nor
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisarkar0128&theme=github_dark&layout=compact" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=rafisarkar0128&show_icons=true&theme=github_dark" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rafisarkar0128&theme=github_dark&show_icons=true&count_private=true&hide=issues" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafisarkar0128&layout=compact&theme=github_dark" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=rafisarkar0128&theme=github-dark" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rafisarkar0128&theme=github_dark" />
     </td>
   </tr>
 </table>
 
 ## 🚀 My Projects
 
-<a href="https://github.com/rafisarkar0128/Node"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafisarkar0128&repo=Node&theme=github_dark" /></a>
-<a href="https://github.com/rafisarkar0128/hopeless-bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafisarkar0128&repo=hopeless-bot&theme=github_dark" /></a>
+<a href="https://github.com/rafisarkar0128/Node"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rafisarkar0128&repo=Node&theme=github_dark" /></a>
+<a href="https://github.com/rafisarkar0128/c-gui-calculator"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rafisarkar0128&repo=c-gui-calculator&theme=github_dark" /></a>
+<a href="https://github.com/rafisarkar0128/hopeless-bot"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rafisarkar0128&repo=hopeless-bot&theme=github_dark" /></a>
 
 ---
 
