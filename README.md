@@ -2,17 +2,16 @@
 
 I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at North South University.
 
--   💻 Passionate about building things with code and exploring new technologies.
--   🛠️ Hands-on experience with JavaScript, Node.js, HTML, CSS, C, and Git.
--   🧩 Interested in modular programming, logic building, and API-driven creative projects.
--   🔭 Currently exploring new technologies and working on my personal projects.
--   🧑‍💻 I love solving challenging problems and collaborating with others in the tech community.
--   💡 Always looking for opportunities to learn, grow, and contribute to exciting projects.
--   🎮 Outside of coding, I enjoy gaming, movies, tv-shows, and comics.
+- 💻 Passionate about building things with code and exploring new technologies.
+- 🛠️ Hands-on experience with JavaScript, Node.js, HTML, CSS, C, and Git.
+- 🧩 Interested in modular programming, logic building, and API-driven creative projects.
+- 🔭 Currently exploring new technologies and working on my personal projects.
+- 🧑‍💻 I love solving challenging problems and collaborating with others in the tech community.
+- 💡 Always looking for opportunities to learn, grow, and contribute to exciting projects.
+- 🎮 Outside of coding, I enjoy gaming, movies, tv-shows, and comics.
 
 ## 📫 Connect with Me
 
-[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rafisarkar0128)
 [![ProtonMail](https://img.shields.io/badge/Send_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rafisarkar0128@proton.me)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafisarkar0128)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafisarkar0128/)
@@ -26,6 +25,7 @@ I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at Nor
     <td><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /></td>
     <td><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" /></td>
     <td><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" /></td>
+    <td><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" /></td>
     <td><img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" /></td>
   </tr>
 </table>
