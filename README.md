@@ -5,7 +5,7 @@ I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at Nor
 - 💻 Passionate about building things with code and exploring new technologies.
 - 🛠️ Hands-on experience with JavaScript, Node.js, HTML, CSS, C, and Git.
 - 🧩 Interested in modular programming, logic building, and API-driven creative projects.
-- 🔭 Currently exploring new technologies and working on my personal projects.
+- 🔭 Currently exploring new technologies and working on my personal goals.
 - 🧑‍💻 I love solving challenging problems and collaborating with others in the tech community.
 - 💡 Always looking for opportunities to learn, grow, and contribute to exciting projects.
 - 🎮 Outside of coding, I enjoy gaming, movies, tv-shows, and comics.
@@ -13,10 +13,9 @@ I’m Rafi, a student pursuing my B.Sc. in Computer Science & Engineering at Nor
 ## 📫 Connect with Me
 
 [![ProtonMail](https://img.shields.io/badge/Send_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rafisarkar0128@proton.me)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafisarkar0128)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafisarkar0128/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafisarkar0128)
+[![Gravatar](https://img.shields.io/badge/Gravatar-222222?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/rafisarkar0128)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/720186844540567583/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/theassassin0128/)
 
 ## 🛠️ Languages
 
