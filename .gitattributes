@@ -1,0 +1,8 @@
+# Set default behavior to automatically normalize line endings to LF on commit
+* text=auto eol=lf
+
+# Force specific critical files to strictly use LF everywhere
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.lua text eol=lf
